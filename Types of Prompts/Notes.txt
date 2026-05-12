@@ -1,0 +1,6 @@
+Types of Prompts:
+    Zero Shot Prompting
+    Few Shot Prompting
+    Chain of Thought (COT) Prompting
+    Role Based Prompting
+    Without Role Based Prompting
